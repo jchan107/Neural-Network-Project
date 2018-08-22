@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info Type="StartUp" Visible="0" Icon="" File="trainneuralnet.m" Name="trainneuralnet">
+    <Extension Value="316241ea-87d1-4415-afc6-af4c7507bad3" Name="StartUpPrev" />
+</Info>
